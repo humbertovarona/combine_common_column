@@ -8,7 +8,7 @@ Simple function to combine two csv files with a common column
 
 # Release date
 
-![](https://img.shields.io/badge/Release%20date-Nov%2C%205%2C%202023-9cf)
+![](https://img.shields.io/badge/Release%20date-Nov%2C%204%2C%202023-9cf)
 
 # License
 
